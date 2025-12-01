@@ -78,14 +78,27 @@ Core system is in place (FOUNDATION, SCHEDULE, DIET). Now building out tracking 
 
 ---
 
-## Priority 4: Financial
+## Priority 4: Financial / Wealth Building
 
-### Investment Strategy
+### WEALTH.md Document
+- [ ] Create WEALTH.md in this repo
+- [ ] Define current financial position (income, expenses, savings rate)
+- [ ] Set clear wealth targets (short, medium, long-term)
+- [ ] Exit strategy timeline and milestones
+- [ ] What "generational wealth for family" actually looks like in numbers
+
+### Investment Strategy (with Dad)
 - [ ] Schedule conversation with dad
 - [ ] Define investment goals and timeline
-- [ ] Research options (index funds, real estate, etc.)
-- [ ] Create INVESTING.md with strategy
-- [ ] Monthly investment tracking
+- [ ] Research options (index funds, real estate, business acquisitions, etc.)
+- [ ] Asset allocation strategy
+- [ ] Tax optimization considerations
+- [ ] Monthly/quarterly investment plan
+
+### Tracking
+- [ ] Net worth tracking (monthly)
+- [ ] Investment performance tracking
+- [ ] Progress toward family financial freedom goal
 
 ---
 

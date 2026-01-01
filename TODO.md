@@ -1,7 +1,39 @@
 # FDC System - To Do
 
-## Status: MVP Complete
-Core system is in place (FOUNDATION, SCHEDULE, DIET). Now building out tracking and accountability.
+## Status: Financial Foundation Complete
+Core system is in place (FOUNDATION, SCHEDULE, DIET). Financial analysis done. Wealth building plan ready.
+
+---
+
+## ✅ COMPLETED
+
+### Financial / Wealth Building (Priority 4) - DONE
+- [x] Analyze 2025 credit card statements ($8,551 interest, $2,360 fees identified)
+- [x] Create WEALTH.md - action checklist for wealth building
+- [x] Create FINANCIAL-SNAPSHOT.md - complete financial picture
+- [x] Create BUDGET.md - detailed spending analysis and 2026 targets
+- [x] Document all debt (CC $57K, personal loan $21K, student loans $234K)
+- [x] Document all income ($275K salary + $35K passive + $200K+ distributions)
+- [x] Calculate preventable costs in 2025 (~$23,668 in interest/fees/waste)
+- [x] Set wealth building targets and investment allocation plan
+
+---
+
+## 🚨 IMMEDIATE (This Week)
+
+### Debt Payoff - January 2nd
+- [ ] Pay off Chase credit card: $57,690.85
+- [ ] Pay off Customers Bank personal loan: $21,341.55
+- [ ] Screenshot confirmations
+
+### Apps & Subscriptions
+- [ ] Delete Uber Eats from phone
+- [ ] Delete DoorDash from phone
+- [ ] Delete Favor from phone
+- [ ] Review and cancel subscriptions (see BUDGET.md list)
+
+### Banking Setup
+- [ ] Set Venmo to pull from bank account (not CC) for babysitters
 
 ---
 
@@ -21,6 +53,7 @@ Core system is in place (FOUNDATION, SCHEDULE, DIET). Now building out tracking 
   - Work hours
   - Family time (hours)
   - Energy level (1-10)
+  - **Spending (stayed on budget Y/N)**
   - Notes / wins / struggles
 - [ ] Weekly summary row (average weight, total training sessions, etc.)
 - [ ] Share with wife for accountability
@@ -42,7 +75,7 @@ Core system is in place (FOUNDATION, SCHEDULE, DIET). Now building out tracking 
 ### WEEKLY-REVIEW.md
 - [ ] Template for Sunday reviews
 - [ ] Questions to answer each week
-- [ ] Metrics to review
+- [ ] Metrics to review (health + financial)
 - [ ] Adjustments to make
 - [ ] Goals for next week
 
@@ -78,27 +111,28 @@ Core system is in place (FOUNDATION, SCHEDULE, DIET). Now building out tracking 
 
 ---
 
-## Priority 4: Financial / Wealth Building
+## Priority 4: Remaining Financial Tasks
 
-### WEALTH.md Document
-- [ ] Create WEALTH.md in this repo
-- [ ] Define current financial position (income, expenses, savings rate)
-- [ ] Set clear wealth targets (short, medium, long-term)
-- [ ] Exit strategy timeline and milestones
-- [ ] What "generational wealth for family" actually looks like in numbers
+### Investment Setup (January)
+- [ ] Open SEP-IRA (Fidelity or Vanguard)
+- [ ] Open taxable brokerage account
+- [ ] Make initial contributions
+- [ ] Set up automatic investments
 
 ### Investment Strategy (with Dad)
 - [ ] Schedule conversation with dad
 - [ ] Define investment goals and timeline
-- [ ] Research options (index funds, real estate, business acquisitions, etc.)
 - [ ] Asset allocation strategy
 - [ ] Tax optimization considerations
-- [ ] Monthly/quarterly investment plan
 
-### Tracking
+### Ongoing Tracking
 - [ ] Net worth tracking (monthly)
-- [ ] Investment performance tracking
-- [ ] Progress toward family financial freedom goal
+- [ ] Spending vs budget review (weekly)
+- [ ] Investment performance tracking (quarterly)
+
+### Research
+- [ ] PSLF eligibility for Cariss's student loans
+- [ ] PA mortgage exact payment and rental income details
 
 ---
 
@@ -126,19 +160,20 @@ Core system is in place (FOUNDATION, SCHEDULE, DIET). Now building out tracking 
 
 1. **Daily**: Log everything in the tracking sheet
 2. **Weekly**: Sunday review - analyze the week, adjust next week's plan
-3. **Monthly**: Bigger picture review - weight trend, energy, what's working
-4. **With Claude**: Share tracking data, get analysis and adjustments
+3. **Monthly**: Bigger picture review - weight trend, energy, spending, what's working
+4. **Quarterly**: Net worth check, investment review, goal reassessment
+5. **With Claude**: Share tracking data, get analysis and adjustments
 
 ---
 
-## Next Actions (Immediate)
+## Next Actions (Tomorrow - January 2nd)
 
-1. [ ] Create Google Sheet with tracking tabs
-2. [ ] Plan this week's meals (Dec 1-7)
-3. [ ] Plan this week's workouts (Dec 1-7)
-4. [ ] Go grocery shopping (today or tomorrow)
-5. [ ] Start Day 1 of the schedule
+1. [ ] Pay off Chase CC ($57,690.85)
+2. [ ] Pay off Customers Bank loan ($21,341.55)
+3. [ ] Delete food delivery apps
+4. [ ] Review subscription list and cancel
+5. [ ] Start Week 1 of schedule and diet
 
 ---
 
-*Last updated: December 1, 2025*
+*Last updated: January 1, 2026*
